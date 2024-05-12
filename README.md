@@ -1,7 +1,5 @@
 # MapLE: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-Metrics Evaluation
-This general strategy aims to promptly match analogous molecules with low computational resources by multi-metrics evaluation.
-
-Our work is published in AAAI-2024 conference. If you want to know the main ideas and results of the work, please read this student abstract published on AAAI-2023, which is only two pages.
+This general strategy aims to promptly match analogous molecules with low computational resources by multi-metrics evaluation. If you want to know the main ideas and results of the work, please read this student abstract published on [AAAI-2024](https://ojs.aaai.org/index.php/AAAI/article/view/30427).
 
 ## Usage
 ### Getting Raw Data
@@ -25,7 +23,12 @@ If you find our work useful, please consider citing:
 @Article{Chen2024,
   author  = {Chen, Xiaojian and Liao, Chuyue and Gu, Yanhui and Li, Yafie and Wang, Jinlan and Chen, Yi and Kitsuregawa Masaru},
   journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  title   = {{MapLE}: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-Metrics Evaluation},
+  title   = {MapLE: Matching Molecular Analogues Promptly with Low Computational Resources by Multi-Metrics Evaluation (Student Abstract)},
   year    = {2024},
-}
+  volume  = {38},
+  url     = {https://ojs.aaai.org/index.php/AAAI/article/view/30427},
+  DOI     = {10.1609/aaai.v38i21.30427},
+  number  = {21},
+  pages   = {23456-23457}
+} 
 ```
