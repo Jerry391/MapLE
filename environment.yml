@@ -220,5 +220,4 @@ dependencies:
       - werkzeug==2.2.3
       - zipp==3.15.0
       - zope-deprecation==5.0
-      - zope-interface==6.1
-prefix: /home/liaochuyue/anaconda3/envs/newChem_env
+      - zope-interface==6.1 
